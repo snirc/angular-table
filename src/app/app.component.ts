@@ -13,7 +13,7 @@ export class AppComponent implements OnInit {
     data = [];
 
     constructor(private http: Http) {
-        this.http.get('data/data.json')
+        this.http.get('https://snirc.github.io/angular-table/assets/data/data.json')
                 .subscribe(res => this.data = res.json());
     }
 
