@@ -1,5 +1,8 @@
 [
-	{"id": 1, "name": "anne Graham","username":"Bret","email": "Sincere@april.biz"	},
-	{"id": 1, "name": "Ervin Howell","username":"Antonette", "email":	"Shanna@melissa.tv"	},
-	{"id": 1, "name": "Nicholas DuBuque","username":"Nicholas.Stanton","email":"Rey.Padberg@rosamond.biz"}
+	{"id": 1, "name": "Shoko Cohen","username":"Shoki","email": "shokoco@gmail.com"	},
+	{"id": 2, "name": "Ori Cohen","username":"oriki","email": "oriki@gmail.com"	},
+	{"id": 3, "name": "Gil Cohen","username":"gilgool","email": "gilgool@gmail.com"	},
+	{"id": 4, "name": "Snir Cohen","username":"snirc","email": "snirco@gmail.com"	},
+	{"id": 5, "name": "Ervin Howell","username":"Antonette", "email":	"Shanna@melissa.tv"	},
+	{"id": 6, "name": "Nicholas DuBuque","username":"Nicholas.Stanton","email":"Rey.Padberg@rosamond.biz"}
 ]
